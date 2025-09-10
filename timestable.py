@@ -51,7 +51,7 @@ def main():
                 else:
                     print('Modo inválido. Insira 1 ou 2.')
             except ValueError:
-                print('Por favor, insira um número válido.')
+                print('Por favor, insira um número válido')
 
         # Executa a opção escolhida
         if mode == 1:
