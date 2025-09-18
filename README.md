@@ -1,0 +1,1 @@
+## Times Table is a Python project that generates and displays multiplication tables for any number interactively. Perfect for students and beginners in programming who want to practice multiplication and automate calculations in a fun and practical way.
